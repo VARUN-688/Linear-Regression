@@ -1,3 +1,5 @@
+#Linear Regression
+
 Linear Regression from Scratch
 Welcome to the Linear Regression from Scratch project! This repository contains Python code to implement a simple linear regression model without using any external libraries, providing a hands-on learning experience in machine learning fundamentals.
 
